@@ -1,113 +1,98 @@
 <div align="center">
 
-# Hey, I'm Abdul Ahad Khan 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123B70,100:00B8D9&height=220&section=header&text=Abdul%20Ahad%20Khan&fontSize=42&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=58&descSize=16" width="100%" alt="Animated blue header banner"/>
 
-### Full-Stack Developer | Web Experiences · Dashboards · 3D Configurators
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1100&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+responsive+web+experiences;Creating+interactive+product+tools;Developing+dashboards+and+web+apps;Always+learning+and+building" alt="Typing animation"/>
+</a>
 
-I build responsive web applications, interactive product experiences, and practical digital tools.
+<p>
+  <a href="https://abdulahadkhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/abdul-ahad-khan0207/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/abdulahad2468"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-📍 Karachi, Pakistan · 🌐 [Portfolio](https://abdulahadkhan.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/abdul-ahad-khan0207/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://abdulahadkhan.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-ahad-khan0207/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulahad2468)
+<img src="https://komarev.com/ghpvc/?username=abdulahad2468&style=flat-square&color=0891b2&label=PROFILE+VIEWS" alt="Profile view counter"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a full-stack developer interested in building useful, user-friendly digital products. My work spans responsive frontends, API-connected applications, dashboards, and interactive 3D product experiences.
+I'm a developer who enjoys turning ideas into useful, polished digital experiences. I work on responsive websites, interactive interfaces, product configurators, dashboards, and collaboration tools.
 
-## 🧰 Tech Stack
+- 💻 Focused on building accessible, responsive, user-friendly web experiences.
+- 🧩 Interested in interactive product configurators and practical web applications.
+- ⚙️ Exploring frontend development, backend APIs, databases, and full-stack workflows.
+- 🌱 Improving my skills by building projects and learning through implementation.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+## 🛠️ Tech Stack
 
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mysql,postgres,git,github,vercel,vite&perline=7" alt="Technology icons"/>
+</p>
 
-### Tools & Focus Areas
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-Responsive UI · Dashboard Development · API Integration · UI Animations · 3D Web Experiences
-
----
-
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 ### 🛋️ 3D Sofa Configurator
-An interactive furniture configurator concept that lets visitors explore a sofa product through a browser-based experience.
+An interactive browser-based furniture configurator concept focused on exploring a sofa product through a dedicated product experience.
 
-**Focus:** Interactive product presentation and configurator UI.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://abdulahad2468.github.io/sofa-configrator/)
 
-[![Open Project](https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://abdulahad2468.github.io/sofa-configrator/)
+### 👟 Bros Shoes — Storefront Demo
+A shoe-store website concept with a dedicated storefront and a product-browsing experience.
 
-### 👟 Bros Shoes — E-Commerce Demo
-A shoe-store website concept focused on presenting products in a dedicated storefront with a clear browsing experience.
-
-[![Open Project](https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://bros-shoes.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://bros-shoes.vercel.app/)
 
 ### 🦷 Dental Clinic Website
-A clinic website concept designed to present services clearly and help visitors find relevant information.
+A clinic website concept that presents services clearly and helps visitors find relevant information.
 
-[![Open Project](https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://dental-clinic-two-rosy.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://dental-clinic-two-rosy.vercel.app/)
 
 ### 👕 Clothing Store Website
-A retail website concept for showcasing clothing products in a dedicated online storefront.
+A retail website concept designed to showcase clothing products through a dedicated online storefront.
 
-[![Open Project](https://img.shields.io/badge/Live_Demo-Visit_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://clothing-site-six-blue.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_Project-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://clothing-site-six-blue.vercel.app/)
 
-### 🧩 Internal Sprint Board, Chat & Meeting Platform
-Contributed to a private company platform that brings together sprint-board project tracking, team chat, and meeting functionality to support collaboration and project workflows.
+### 🎨 Ammar GFX Portfolio
+A graphics portfolio website showcasing visual design and creative presentation.
 
-*This is an internal project, so its source and private URL are not shared publicly.*
+[![Visit Portfolio](https://img.shields.io/badge/Live_Site-View_Portfolio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://ammar-gfx-portfolio.vercel.app/)
 
-### 🌐 More Work
-- [Personal Portfolio — Web Dev Solution](https://abdulahadkhan.vercel.app/)
-- [Romeo GFX](https://romeo-gfx.vercel.app/)
+### 🗂️ Private Collaboration Platform
+A private internal platform combining sprint-board project tracking, team chat, and meeting functionality. The project is not publicly linked.
 
 ---
 
 ## 📊 GitHub Status
 
-> These cards load statistics from public GitHub profile data. They may take a little time to update, and third-party card services can occasionally be unavailable.
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulahad2468&show_icons=true&hide_border=true&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulahad2468&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad2468&layout=compact&hide_border=true&theme=tokyonight)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahad2468&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdulahad2468&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=abdulahad2468&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-## 🤝 Let's Connect
+## 📈 Contribution Activity
 
-I'm interested in learning, collaborating on useful products, and building thoughtful web experiences.
+<div align="center">
 
-- 🌐 Portfolio: [abdulahadkhan.vercel.app](https://abdulahadkhan.vercel.app/)
-- 💼 LinkedIn: [Abdul Ahad Khan](https://www.linkedin.com/in/abdul-ahad-khan0207/)
-- 🧑‍💻 GitHub: [@abdulahad2468](https://github.com/abdulahad2468)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulahad2468&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity graph"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Building practical ideas into digital experiences, one project at a time.*
+### Thanks for stopping by! ✨
+
+*Learning, building, and improving one project at a time.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D9,50:123B70,100:0B1020&height=100&section=footer" width="100%" alt="Decorative animated footer"/>
 
 </div>
